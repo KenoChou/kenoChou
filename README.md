@@ -47,8 +47,8 @@
   - **链接**: [GitHub链接](https://github.com/yourusername/projectname)
 
 ## 博客与文章
-- **[文章标题]**: [链接](https://yourblog.com/article-title)
-- **[文章标题]**: [链接](https://yourblog.com/article-title)
+- **[文章标题]**: [链接](https://kenochou.online)
+- **[文章标题]**: [链接](https://kenochou.online)
 
 ## 开源贡献
 - **[项目名称]**: [链接](https://github.com/otherusername/projectname)
@@ -69,6 +69,4 @@
 
 🌟 如果你觉得我的项目或工作对你有帮助，不妨给我点个星⭐️吧！你的支持是我继续前进的动力！
 
----
 
-希望这个模板对您有所帮助！请根据您的实际情况调整内容，使其更加个性化和符合您的风格。祝您在GitHub上的旅程愉快！
