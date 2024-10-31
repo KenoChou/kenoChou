@@ -1,4 +1,4 @@
-# 🌟 Hi there! 我是 [您的名字] 🌟
+# 🌟 Hi there! My name id  kenochou 🌟
 
 ## 关于我
 - 👨‍💻 **软件工程师** | 对前端和后端开发都有浓厚的兴趣
