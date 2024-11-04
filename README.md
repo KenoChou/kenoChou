@@ -13,7 +13,7 @@
   - TypeScript
   - Vue.js / React
   - HTML5 / CSS3
-  - Webpack
+  - Webpack / Vite
 - **后端**:
   - Node.js
   - Express.js
