@@ -41,7 +41,7 @@ Hello! I'm a passionate developer with experience in:
 
 ## 📫 Get in Touch
 
-- Email: `your.email@example.com`  
+- Email: `2078661854@qq.com`  
 - Blog/Portfolio: [kenochou.online](https://kenochou.online)  
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
