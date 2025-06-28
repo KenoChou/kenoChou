@@ -43,7 +43,7 @@ Hello! I'm a passionate developer with experience in:
 
 - Email: `2078661854@qq.com`  
 - Blog/Portfolio: [kenochou.online](https://kenochou.online)  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/kenochou](https://linkedin.com/in/kenochou)
 
 ---
 
