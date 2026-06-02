@@ -34,7 +34,7 @@ Hello! I'm a passionate developer with experience in:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenoChou&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenoChou&count_private=true)
 
 ---
 
