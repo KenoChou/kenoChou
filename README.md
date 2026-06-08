@@ -39,8 +39,7 @@ Hello! I'm a passionate developer with experience in:
 
 ## 📫 Get in Touch
 
-- Email: `2078661854@qq.com`  
-- Blog/Portfolio: [kenochou.online](https://kenochou.online)  
+- Email: `2078661854@qq.com`   
 - LinkedIn: [linkedin.com/in/kenochou](https://linkedin.com/in/kenochou)
 
 ---
